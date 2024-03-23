@@ -35,3 +35,7 @@ Feel free to contact me below with any questions or suggestions:
 - [Github](https://github.com/BrianHCordova)
 
 - [Email Address](mailto:briancordova@yahoo.com)
+
+- [Repo](https://github.com/BrianHCordova/express-note-taker)
+
+- [Website](https://express-note-taker-k2zf.onrender.com)
